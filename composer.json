@@ -1,5 +1,5 @@
 {
-	"name": "natxet/cssmin",
+	"name": "skeeks/cssmin",
 	"description": "Minifying CSS",
 	"type": "library",
 	"keywords": ["css","minify"],
